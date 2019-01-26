@@ -1,0 +1,11 @@
+Heuristic Chosen : Total Manhattan distance 
+Start State : 
+126
+807
+354
+Goal State : 
+123
+405
+678
+Search Status : Failed
+Time Taken : 0:02:26.832588 

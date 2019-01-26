@@ -1,0 +1,6 @@
+###ACCURACY#####
+1.Using unigram,bigram,trigram and pos tag = 55.11
+2.Using unigram,bigram,trigram = 61.2
+3.Using unigram = 60.6
+4.Using bigram  = 55.07
+5.Using trigram = 33.98
